@@ -1,25 +1,25 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Seitenbeschreibung
-datePublished: '2016-01-05T16:00:20.149Z'
-dateModified: '2016-01-05T16:00:05.643Z'
+datePublished: '2016-01-05T16:21:21.312Z'
+dateModified: '2016-01-05T16:21:18.060Z'
 title: Das weiße Herz
 author: []
+sourcePath: _posts/2016-01-05-das-weisse-herz.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-05-das-weisse-herz.md
-published: true
 url: das-weisse-herz/index.html
-_type: Blurb
+_type: WebPage
 
 ---
 # Das weiße Herz
