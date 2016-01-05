@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-05T16:18:07.896Z'
-dateModified: '2016-01-05T16:16:38.346Z'
+datePublished: '2016-01-05T16:21:55.260Z'
+dateModified: '2016-01-05T16:21:52.413Z'
 title: Anwendbarkeit
 author: []
+sourcePath: _posts/2016-01-05-anwendbarkeit.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-05-anwendbarkeit.md
-published: true
 url: anwendbarkeit/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Anwendbarkeit
